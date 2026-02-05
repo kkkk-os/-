@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int fei(int n)
+int fei_digui(int n)
 {
 	if(n==1||n==2)
 	{
