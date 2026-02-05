@@ -9,3 +9,4 @@
 - **斐波那契列数查找（递归）** (`feibona_digui.cpp`)
 -  **斐波那契列数查找（数组bad）** (`feibona_shuzu(bad).cpp`)
 -  **斐波那契列数查找** (`feibona.cpp`)
+-   **累加（递归）** (`feibona.cpp`)
