@@ -1,3 +1,5 @@
+#include<iostream>
+using namespace std;
 bool zhi(int n)
 {
 if(n<=1)
