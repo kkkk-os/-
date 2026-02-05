@@ -3,7 +3,7 @@
 #include<string>
 #include<algorithm>
 using namespace std;
-bool hui(int n)
+bool hui_string(int n)
 {
 string s1=to_string(n);
   string s2=s1;
