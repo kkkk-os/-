@@ -7,4 +7,4 @@
 - **回文数-数学法** (`huiwenshu.cpp`)：O(log n)时间，O(1)空间
 - **回文数-字符串法** (`huiwen-string.cpp`)：O(n)时间，O(n)空间
 - **斐波那契列数查找（递归）** (`feibona_digui.cpp`)
-- **斐波那契列数查找（数组bad）** (`feibona_shuzubad.cpp`)
+-  **斐波那契列数查找（数组bad）** (`feibona_shuzubad.cpp`)
