@@ -10,3 +10,5 @@
 -  **斐波那契列数查找（数组bad）** (`feibona_shuzu(bad).cpp`)
 -  **斐波那契列数查找** (`feibona.cpp`)
 -   **累加（递归）** (`leijia(digui).cpp`)
+-   **从右向左提取数字的第n位数字** (`tiqv(digui).cpp`)
+
