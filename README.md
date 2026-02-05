@@ -8,3 +8,4 @@
 - **回文数-字符串法** (`huiwen-string.cpp`)：O(n)时间，O(n)空间
 - **斐波那契列数查找（递归）** (`feibona_digui.cpp`)
 -  **斐波那契列数查找（数组bad）** (`feibona_shuzu(bad).cpp`)
+-  **斐波那契列数查找** (`feibona.cpp`)
