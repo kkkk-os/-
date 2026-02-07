@@ -13,4 +13,5 @@
 -   **从右向左提取数字的第n位数字** (`tiqv(digui).cpp`)
 -   **进制转换（递归）** (`jinzhi_digui.cpp`)
 -   **x进制转换成10进制** (`zhuanshi.cpp`)
+-   **x进制转换成y进制** (`X_to_y.cpp`)
 
