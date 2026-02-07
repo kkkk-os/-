@@ -14,4 +14,5 @@
 -   **进制转换（递归）** (`jinzhi_digui.cpp`)
 -   **x进制转换成10进制** (`zhuanshi.cpp`)
 -   **x进制转换成y进制** (`X_to_y.cpp`)
+-   **判断奇偶** (`panduan_wei.cpp`)
 
