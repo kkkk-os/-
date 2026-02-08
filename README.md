@@ -16,5 +16,6 @@
 -   **x进制转换成y进制** (`X_to_y.cpp`)
 -   **判断奇偶** (`panduan_wei.cpp`)
 -   **32位的二进制颠倒** (`diandao.cpp`)
+-   **数字补码** (`diandao.cpp`)
 
 
