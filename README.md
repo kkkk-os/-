@@ -18,5 +18,6 @@
 -   **32位的二进制颠倒** (`diandao.cpp`)
 -   **数字补码** (`shuzibuma.cpp`)
 -   **数字补码,更好** (`shuzibuma(good).cpp`)
+-   **数字补码,好** (`buma(hao).cpp`)
 
 
