@@ -17,5 +17,6 @@
 -   **判断奇偶** (`panduan_wei.cpp`)
 -   **32位的二进制颠倒** (`diandao.cpp`)
 -   **数字补码** (`shuzibuma.cpp`)
+-   **数字补码,更好** (`shuzibuma(good).cpp`)
 
 
